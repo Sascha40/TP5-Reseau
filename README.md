@@ -213,7 +213,7 @@ enp0s3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP gro
  
 * Capture du Dora sur wireshark
 
-![screen du dora](https://github.com/Sascha40/TP5-Reseau/blob/master/sreen%20dora.png)
+![screen du dora](https://github.com/Sascha40/TP5-Reseau/blob/master/screen.png)
 
 _ _ _
 J'ai manqué de temps pour faire la bonus etc. Désolé 😕
