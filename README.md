@@ -199,7 +199,7 @@ enp0s3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP gro
 ```
 * `dhclient`
 ```
-sudo dhclient -v
+sudo dhclient -v -r
 
 ip a
 
@@ -211,6 +211,9 @@ enp0s3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP gro
     
  ```
  
+* Capture du Dora sur wireshark
+
+![screen du dora]()
 
 _ _ _
-J'ai manqué de temps pour faire la suite. Désolé 😕
+J'ai manqué de temps pour faire la bonus etc. Désolé 😕
